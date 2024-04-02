@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Abstract\\ClassAbstract\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20D63E40-586D-464B-9704-D6F2DF772556}|ClassAbstract\\ClassAbstract.csproj|c:\\users\\asus\\desktop\\abstract\\classabstract\\classabstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D63E40-586D-464B-9704-D6F2DF772556}|ClassAbstract\\ClassAbstract.csproj|solutionrelative:classabstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D63E40-586D-464B-9704-D6F2DF772556}|ClassAbstract\\ClassAbstract.csproj|C:\\Users\\Asus\\Desktop\\Abstract\\ClassAbstract\\classabstract\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D63E40-586D-464B-9704-D6F2DF772556}|ClassAbstract\\ClassAbstract.csproj|solutionrelative:classabstract\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D63E40-586D-464B-9704-D6F2DF772556}|ClassAbstract\\ClassAbstract.csproj|C:\\Users\\Asus\\Desktop\\Abstract\\ClassAbstract\\classabstract\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D63E40-586D-464B-9704-D6F2DF772556}|ClassAbstract\\ClassAbstract.csproj|solutionrelative:classabstract\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D63E40-586D-464B-9704-D6F2DF772556}|ClassAbstract\\ClassAbstract.csproj|C:\\Users\\Asus\\Desktop\\Abstract\\ClassAbstract\\classabstract\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D63E40-586D-464B-9704-D6F2DF772556}|ClassAbstract\\ClassAbstract.csproj|solutionrelative:classabstract\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Abstract\\ClassAbstract\\ClassAbstract\\Bus.cs",
+              "RelativeDocumentMoniker": "ClassAbstract\\Bus.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Abstract\\ClassAbstract\\ClassAbstract\\Bus.cs",
+              "RelativeToolTip": "ClassAbstract\\Bus.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwCAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:22:40.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Abstract\\ClassAbstract\\ClassAbstract\\Car.cs",
+              "RelativeDocumentMoniker": "ClassAbstract\\Car.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Abstract\\ClassAbstract\\ClassAbstract\\Car.cs",
+              "RelativeToolTip": "ClassAbstract\\Car.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA8wCsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:01:26.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Abstract\\ClassAbstract\\ClassAbstract\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ClassAbstract\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Abstract\\ClassAbstract\\ClassAbstract\\Vehicle.cs",
+              "RelativeToolTip": "ClassAbstract\\Vehicle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:57:22.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Abstract\\ClassAbstract\\ClassAbstract\\Program.cs",
+              "RelativeDocumentMoniker": "ClassAbstract\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Abstract\\ClassAbstract\\ClassAbstract\\Program.cs",
+              "RelativeToolTip": "ClassAbstract\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:51:49.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
